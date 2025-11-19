@@ -5,7 +5,7 @@ const fs = require('fs');
 // --- CONFIGURATION ---
 const BOT_TOKEN = '8520641282:AAGlId3BC282mHugKeHtKmgi4ZFDRz7Uwq8'; 
 const LOG_CHANNEL_ID = '-1003241628417'; // Yahan apna Channel ID dalein
-const DOMAIN = 'https://digi.codesearch.store'; // Render deploy hone ke baad yahan URL dalein
+const DOMAIN = 'https://storebyte.vercel.app'; // Render deploy hone ke baad yahan URL dalein
 
 const DB_FILE = 'database.json';
 const PORT = process.env.PORT || 3000;
