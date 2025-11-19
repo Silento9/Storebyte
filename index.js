@@ -5,7 +5,7 @@ const fs = require('fs');
 // --- CONFIGURATION ---
 const BOT_TOKEN = '8520641282:AAEXfFjDwfV5MZtlhu91wjpyz6udeGGA_vY'; 
 const LOG_CHANNEL_ID = '-1003241628417'; // Yahan apna Channel ID dalein
-const DOMAIN = 'https://storebyte-bot.vercel.app'; // Render deploy hone ke baad yahan URL dalein
+const DOMAIN = 'https://storebytebot.vercel.app'; // Render deploy hone ke baad yahan URL dalein
 
 const DB_FILE = 'database.json';
 const PORT = process.env.PORT || 3000;
