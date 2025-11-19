@@ -3,7 +3,7 @@ const express = require('express');
 const fs = require('fs');
 
 // --- CONFIGURATION ---
-const BOT_TOKEN = '8520641282:AAGlId3BC282mHugKeHtKmgi4ZFDRz7Uwq8'; 
+const BOT_TOKEN = '8520641282:AAEXfFjDwfV5MZtlhu91wjpyz6udeGGA_vY'; 
 const LOG_CHANNEL_ID = '-1003241628417'; // Yahan apna Channel ID dalein
 const DOMAIN = 'https://storebyte-bot.vercel.app'; // Render deploy hone ke baad yahan URL dalein
 
